@@ -31,5 +31,7 @@ please send a pull request if you wanna make my portfolio better
 
 ## link to deployed project
 
+https://react-portfolio-production-686e.up.railway.app/about
+
 ## image of project
 ![screenshot of website](image.png)
